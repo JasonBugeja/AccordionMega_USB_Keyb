@@ -31,3 +31,8 @@ https://www.youtube.com/watch?v=Fmhv2PbcJrA
 Myself playing using the final working project:
 
 https://www.youtube.com/watch?v=ATPYN1C5aeo
+
+
+UPDATE:
+-------
+Now my project has evolved into https://github.com/JasonBugeja/AccordionMegaBLE
